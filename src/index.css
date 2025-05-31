@@ -23,3 +23,13 @@ nav > h1{
 body{
     margin: 0%;
 }
+
+.entry{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.marker{
+    width: 1%;
+}
